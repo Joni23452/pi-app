@@ -1,4 +1,4 @@
-# pi-app
+# pi-game
 Sovelluksella voi harjoitella piin desimaaleja. Käyttäjät voivat luoda itselleen vihjeitä joita saa tarvittaessa näkyviin. Suoritukset tallennetaan ja käyttäjät voivat tarkastella omia ennätyksiään ja mahdollisia muita tilastoja. Lisäksi olemassa on leaderboard josta löytyy kaikista käyttäjistä parhaimmat.
 
 Sovelluksen ominaisuuksia:
