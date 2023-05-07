@@ -1,6 +1,10 @@
 {% extends "layout.html" %}
 {% block content %}
 <h2>Log in/register</h2>
+Username must be between 1-16 characters.
+<br>
+Password must be between 6-99 characters.
+<br>
 If entered username doesn't exist a new user will be created and you will be logged in
 <form action="/login" method="POST">
 <p>Username:<br>
